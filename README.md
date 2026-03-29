@@ -2,20 +2,21 @@
 
 [![npm version](https://img.shields.io/npm/v/vuewer.svg)](https://www.npmjs.com/package/vuewer)
 [![npm downloads](https://img.shields.io/npm/dm/vuewer.svg)](https://www.npmjs.com/package/vuewer)
-[![license](https://img.shields.io/github/license/BioHazard/vuewer.svg)](https://github.com/BioHazard/vuewer/blob/main/LICENSE)
+[![license](https://img.shields.io/github/license/BiologyHazard/vuewer.svg)](https://github.com/BiologyHazard/vuewer/blob/main/LICENSE)
+
+**English** | [简体中文](./README.zh-CN.md)
 
 A refined image preview component for [**Vue 3**](https://vuejs.org/), powered by [**Nuxt UI**](https://ui.nuxt.com/), [**Tailwind CSS**](https://tailwindcss.com/), and [**VueUse**](https://vueuse.org/).
-
 
 ## Features
 
 - 🎨 **Stunning Interface**: Modern, elegant UI powered by [Nuxt UI](https://ui.nuxt.com/) and [Tailwind CSS](https://tailwindcss.com/), with seamless dark/light mode and refined details.
 - 🧰 **Comprehensive Features**: Download images, open in new tab, zoom, rotate, drag, change background, and more—everything you expect from a professional image viewer.
-- ⌨️ **Powerful Shortcuts**: Every action is accessible via intuitive keyboard shortcuts (WASD, arrow keys, numbers, R, 0, 1~9, -, =, and more) for maximum efficiency.
+- ⌨️ **Powerful Shortcuts**: Every action is accessible via intuitive keyboard shortcuts (WASD, arrow keys, R, 0, 1~9, -, =, and more) for maximum efficiency.
 - 🤝 **User Friendly**: Built-in help menu with clear instructions and shortcut references—no learning curve, just productivity.
 - 🚀 **Silky Animations**: Ultra-smooth transitions and interactions, powered by the custom `useAnimateWhenever` composable.
-- 🪄 **Effortless Integration**: Import and use instantly in any Vue 3 project—no complex setup required.
-- 🛠️ **Developer Oriented**: Full TypeScript support, Vite Library Mode build, and open-source codebase for easy customization and extension.
+- 🪄 **Effortless Integration**: Import and use instantly—no complex setup required.
+- 🛠️ **Developer Oriented**: Full TypeScript support, and open-source codebase for easy customization and extension.
 
 ## Installation
 
