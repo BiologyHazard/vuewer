@@ -10,7 +10,7 @@
   "types": "./src/index.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/BiologyHazard/vuewer.git"
+    "url": "git+https://github.com/BiologyHazard/vuewer.git"
   },
   "homepage": "https://github.com/BiologyHazard/vuewer#readme",
   "exports": {
