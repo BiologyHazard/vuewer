@@ -1,6 +1,6 @@
 {
   "name": "vuewer",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "description": "A refined image preview component based on @nuxt/ui, Tailwind CSS, and VueUse.",
   "author": "BioHazard",
   "license": "MIT",
